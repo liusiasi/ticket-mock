@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "dayjs": "^1.8.17",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "mocker-api": "^1.9.0"
